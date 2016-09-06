@@ -1,0 +1,45 @@
+{
+  "name": "leet-code-js",
+  "version": "0.0.1",
+  "description": "JavaScript implementation of solution of LeetCode problems",
+  "maintainers": [
+    {
+      "name": "Spark Liu",
+      "email": "spark.liu.1984@gmail.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Spark Liu",
+      "email": "spark.liu.1984@gmail.com"
+    }
+  ],
+  "bugs": {
+    "email": "spark.liu.1984@gmail.com"
+  },
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sasyomaru/leet-code-js/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasyomaru/leet-code-js.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.9.2",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "jasmine2-reporter": "^0.1.1",
+    "merge2": "^0.3.6",
+    "typescript": "^1.8.10"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "test": "gulp test"
+  }
+}

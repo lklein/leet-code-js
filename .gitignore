@@ -1,0 +1,8 @@
+# WebStorm project information
+.idea/
+
+# NPM modules
+node_modules/
+
+# Build output
+build/
